@@ -26,7 +26,7 @@ command prompt, but changing "false" to "true".
 To run the game, simply double click the "Pong.jar" file.
 
 In order to run this game from the command prompt / terminal, first make
-sure your command line has accessed the pongFinal directory.
+sure your command line has accessed the PongGame directory.
 
 Then, compile the code using this command:
 
